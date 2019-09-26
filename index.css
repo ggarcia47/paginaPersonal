@@ -1,0 +1,33 @@
+.presentacion{
+  text-align: center;
+  font-size: 50px;
+  color: #009a9a;
+}
+
+.infoPersonal{text-align: center;}
+
+.col-me-6{
+  background-color: #F00;
+}
+.infoPersonal{
+  text-align: center;
+
+}
+
+.imagenPersonal{
+  text-align: center;
+}
+
+.botones{
+  text-align: center;
+}
+
+
+.titulotexto{
+  text-align: center;
+}
+.texto{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
